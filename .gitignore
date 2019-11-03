@@ -1,2 +1,13 @@
+# Compiled Python files
+*__pycache__
 
-.DS_Store
+# Virtual environment
+*venv
+
+# Log files and temporary output
+*.log
+*.tmp
+*.db
+
+# Mypy cache
+*.mypy*
